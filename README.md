@@ -84,6 +84,3 @@
 <br />
 
 ![bottomDecoration](https://github.com/LucasSilvaMarts/LucasSilvaMarts/blob/main/wave%20bottom.svg)
-# lsMartinsdev
-# lsMartinsdev
-# lsMartinsdev
