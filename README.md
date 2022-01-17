@@ -65,7 +65,7 @@
 </details>
 -->
 
- <!--![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)-->
+ ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaMarts&show_icons=true&theme=tokyonight)
 
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
