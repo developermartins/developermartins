@@ -7,16 +7,13 @@
 - ✍ You can find my projects here https://devmarts.herokuapp.com/portfolio
 - 📚 You can find my study notes here https://devmarts.herokuapp.com/blog
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="lucas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-
 <br />
 
 ### Languages and Tools 💻:
 <br />
 
 <p  align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact&theme=tokyonight">
 </p>
 
  <p align="center">
