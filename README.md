@@ -12,13 +12,14 @@
 ### Languages and Tools 💻:
 <br />
 
-<p  align="left">
+<p  align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact&theme=tokyonight">
-</p>
-
- <p align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
 </p>
+
+<!--  <p align="left">
+  
+</p> -->
 
 
 [website]: https://holistic-developer.com/
