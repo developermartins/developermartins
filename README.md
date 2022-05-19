@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Lucas 🖖</h2>
 <h3 align="center">🚨New account🚨</h3>
 
-## I'm a software developer
+## I build things for the web
 - 👨‍💻 I’m currently working at VilaApps.
 - 💻 I’m currently learning TypeScript.
 - ✍ You can find my projects here https://devmarts.herokuapp.com/portfolio
