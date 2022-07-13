@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working at VilaApps.
 - 💻 I’m currently learning TypeScript.
 - ✍ You can find my projects here https://devmarts.herokuapp.com/portfolio
-- 📚 You can find my study notes here https://devmarts.herokuapp.com/blog
+- 📚 You can find my study notes here https://www.lmarts.dev/portfolio
 
 <br />
 
