@@ -2,8 +2,8 @@
 <h3 align="center">🚨New account🚨</h3>
 
 ## I build things for the Web
-- 👨‍💻 I’m currently working at VilaApps.
-- 💻 I’m currently learning Ruby and TypeScript.
+- 👨‍💻 I’m currently open to work.
+- 💻 I’m currently learning TypeScript.
 - ✍ You can find my projects here https://www.lmarts.dev/portfolio
 - 📚 You can find my study notes here https://www.lmarts.dev/blog
 
