@@ -4,8 +4,7 @@
 ## I build things for the Web
 - 👨‍💻 I’m currently open to work.
 - 💻 I’m currently learning TypeScript.
-- ✍ You can find my projects here https://www.lmarts.dev/portfolio
-- 📚 You can find my study notes here https://www.lmarts.dev/blog
+- 📚 You can find my study notes here https://lmarts.dev/blog
 
 <br />
 
