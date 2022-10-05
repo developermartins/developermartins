@@ -1,6 +1,5 @@
 <img align="center" src="readme-banner.png">
 
-<br />
 <hr />
 <h3 align="center">🚨New account🚨</h3>
 <br />
