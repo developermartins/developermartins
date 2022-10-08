@@ -12,7 +12,6 @@
 
 ### Languages and Tools 🧰:
 
-<br />
 
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -31,19 +30,18 @@
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-
-<br />
-<br />
-<br />
 <br />
 
-<hr />
+#
+
 <br />
 <p  align="center">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact&theme=tokyonight">
   
    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
 </p>
+
+#
 
 <br />
 
