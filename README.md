@@ -1,5 +1,4 @@
-<img align="center" src="readme-banner.png">
-
+<img src="README BANNER.png">
 <hr />
 <h3 align="center">🚨New account🚨</h3>
 <br />
@@ -45,6 +44,13 @@
   
    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
 </p>
+
+<br />
+
+<details>
+ <summary><h3>👨‍💻 Marts Coding Journey</h3></summary>
+   I'm a Full Stack Web Developer located in Brazil. My programming journey started at 2018 studing Java as autodidact and at 2020 I decided to improve and formalize my studies at Trybe, a programming school specialized in training web developers able to face the challenges of the market.
+   My skills are specialized in JavaScript ecosystem, and I'm always learning something new or just improving what I already know.
 
 
 
