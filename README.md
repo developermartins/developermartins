@@ -32,9 +32,9 @@
 <br /><br />
 
 <p align="left">
-  <img width="360em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
+  <img width="400em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
   
-  <img width="360em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
+  <img width="400em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
 </p>
 
 <br /><br />
