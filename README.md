@@ -7,7 +7,7 @@
 - 📚 You can find my study notes here https://lmarts.dev/blog
 - ▶️ I just started a YouTube channel: [Subscribe!](https://www.youtube.com/channel/UC94jIdz2AHEVSrc3lTdXvyQ)
 
-<br /><br />
+<br />
 
 
 ### Languages and Tools 🧰:
@@ -32,9 +32,9 @@
 <br /><br />
 
 <p align="left">
-  <img width="330em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
+  <img width="230em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
   
-   <img width="330em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
+  <img width="230em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
 </p>
 
 <br /><br />
