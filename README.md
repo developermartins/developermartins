@@ -42,7 +42,7 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Marts Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 devLucasmarts Coding Journey</h3></summary>
    I'm a Full Stack Web Developer located in Brazil. My programming journey started at 2018 studing Java as autodidact and at 2020 I decided to improve and formalize my studies at Trybe, a programming school specialized in training web developers able to face the challenges of the market.
    My skills are specialized in JavaScript ecosystem, and I'm always learning something new or just improving what I already know.
 
