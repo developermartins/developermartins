@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Lucas 🖖 </h1>
-<img align="right" height="680em" src="Mobile.png">
+<img align="right" height="690em" src="Mobile.png">
 
 ## I build things for the Web
 - 👨‍💻 I’m currently open to work.
@@ -32,9 +32,9 @@
 <br /><br />
 
 <p align="left">
-  <img width="400em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
+  <img width="450em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasmarts&layout=compact&theme=tokyonight">
   
-  <img width="400em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
+  <img width="450em" src = "https://github-readme-stats.vercel.app/api?username=devLucasmarts&show_icons=true&theme=tokyonight">
 </p>
 
 <br /><br />
