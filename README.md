@@ -1,19 +1,18 @@
-<img src="README BANNER.png">
+<img align="right" height="590em" src="Mobile.png">
+<h1 align="left">Hi, I'm Lucas 🖖 </h1>
 
-#
-
-<h3 align="center">🚨New account🚨</h3>
-<br />
+<br /><br />
 
 ## I build things for the Web
 - 👨‍💻 I’m currently open to work.
 - 💻 I’m currently learning TypeScript.
 - 📚 You can find my study notes here https://lmarts.dev/blog
+- ▶️ I just started a YouTube channel: [Subscribe!](https://www.youtube.com/channel/UC94jIdz2AHEVSrc3lTdXvyQ)
 
-<br />
+<br /><br />
+
 
 ### Languages and Tools 🧰:
-
 
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -32,16 +31,16 @@
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left"  width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<br />
 
-#
+<br /><br />
 
-<br />
-<p  align="center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact&theme=tokyonight">
+<p align="left">
+  <img width="530em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martsDev&layout=compact&theme=tokyonight">
   
-   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
+   <img width="530em" src = "https://github-readme-stats.vercel.app/api?username=martsDev&show_icons=true&theme=tokyonight">
 </p>
+
+<br /><br />
 
 #
 
