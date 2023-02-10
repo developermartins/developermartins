@@ -7,7 +7,7 @@
 - 📚 You can find my study notes here https://lmarts.dev/blog
 - ▶️ I just started a YouTube channel: [Subscribe!](https://www.youtube.com/channel/UC94jIdz2AHEVSrc3lTdXvyQ)
 - Let's connect [linkedin](https://linkedin.com/in/lucassilvamarts)
-- Let's talk [email](martssilvapro@gmail.com)
+- Let's talk: martssilvapro@gmail.com 
 
 <br />
 
