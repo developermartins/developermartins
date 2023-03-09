@@ -3,7 +3,7 @@
 
 ## I build things for the Web
 - 👨‍💻 I’m currently open to work.
-- 💻 I’m currently learning Docker.
+<!-- - 💻 I’m currently learning Docker. -->
 - 📚 You can find my study notes here https://lmarts.dev/blog
 - ▶️ I just started a YouTube channel: [Subscribe!](https://www.youtube.com/channel/UC94jIdz2AHEVSrc3lTdXvyQ)
 - Let's connect [linkedin](https://linkedin.com/in/lucassilvamarts)
